@@ -1,0 +1,169 @@
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalClinicManagement.exe.config
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalClinicManagement.exe
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalClinicManagement.pdb
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\RestSharp.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Buffers.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.CodeDom.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Data.Odbc.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Data.OleDb.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Drawing.Common.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.IO.Packaging.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.IO.Ports.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Memory.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Appointment.resources
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Login.resources
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Splash.resources
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Properties.Resources.resources
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.exe.licenses
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csproj.Fody.CopyLocal.cache
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csproj.CopyComplete
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.exe
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.pdb
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Patient.resources
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Prescription.resources
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Treatment.resources
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.User.resources
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalDb.mdf
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalDb_log.ldf
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.AdminLogin.resources
+C:\Users\Diana\Desktop\Dental Clinic Management\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.DashBoard.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.AdminLogin.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Appointment.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.DashBoard.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Login.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Patient.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Prescription.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Splash.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Properties.Resources.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.Treatment.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.User.resources
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.exe.licenses
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.exe
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.pdb
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalDb.mdf
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalDb_log.ldf
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalClinicManagement.exe.config
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalClinicManagement.exe
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\DentalClinicManagement.pdb
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\RestSharp.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Buffers.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.CodeDom.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Data.Odbc.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Data.OleDb.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Drawing.Common.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.IO.Packaging.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.IO.Ports.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Memory.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csproj.Fody.CopyLocal.cache
+C:\Users\dell\Desktop\Dental Clinic Management - Copy\DentalClinicManagement\DentalClinicManagement\obj\Debug\DentalClinicManagement.csproj.CopyComplete
